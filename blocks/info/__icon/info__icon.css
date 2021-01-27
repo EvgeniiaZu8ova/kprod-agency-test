@@ -1,0 +1,7 @@
+.info__icon {
+  background-image: url(../../../images/ellipse.svg);
+  width: 52px;
+  height: 52px;
+  padding: 14px;
+  box-sizing: border-box;
+}
