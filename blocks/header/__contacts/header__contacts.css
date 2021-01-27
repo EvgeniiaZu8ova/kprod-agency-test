@@ -1,0 +1,7 @@
+.header__contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-self: flex-end;
+  margin-left: auto;
+}

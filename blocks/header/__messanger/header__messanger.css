@@ -1,0 +1,11 @@
+.header__messanger {
+  font-family: Gotham Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 16px;
+  color: #ffffff;
+  margin: 0;
+  width: calc(146px - 23px - 18px);
+  text-align: right;
+}

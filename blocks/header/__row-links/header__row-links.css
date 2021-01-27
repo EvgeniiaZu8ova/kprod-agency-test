@@ -1,0 +1,6 @@
+.header__row-links {
+  display: flex;
+  width: 586px;
+  justify-content: space-between;
+  align-items: center;
+}
