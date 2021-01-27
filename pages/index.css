@@ -13,3 +13,29 @@
 @import url(../blocks/header/__whatsapp/header__whatsapp.css);
 @import url(../blocks/header/__icon/header__icon.css);
 @import url(../blocks/header/__messanger/header__messanger.css);
+
+@import url(../blocks/overview/overview.css);
+
+@import url(../blocks/offer/offer.css);
+@import url(../blocks/offer/__title/offer__title.css);
+@import url(../blocks/offer/__phone/offer__phone.css);
+@import url(../blocks/offer/__paragraph/offer__paragraph.css);
+@import url(../blocks/offer/__forms/offer__forms.css);
+@import url(../blocks/offer/__button/offer__button.css);
+
+@import url(../blocks/info/info.css);
+@import url(../blocks/info/__rectangle/info__rectangle.css);
+@import url(../blocks/info/__image/info__image.css);
+@import url(../blocks/info/__benefit/info__benefit.css);
+@import url(../blocks/info/__benefit/_clients/info__benefit_clients.css);
+@import url(../blocks/info/__benefit/_profit/info__benefit_profit.css);
+@import url(../blocks/info/__benefit/_sales/info__benefit_sales.css);
+@import url(../blocks/info/__icon/info__icon.css);
+@import url(../blocks/info/__text/_sales/info__text_sales.css);
+@import url(../blocks/info/__title/info__title.css);
+@import url(../blocks/info/__title/_clients/info__title_clients.css);
+@import url(../blocks/info/__title/_profit/info__title_profit.css);
+@import url(../blocks/info/__paragraph/info__paragraph.css);
+@import url(../blocks/info/__paragraph/_clients/info__paragraph_clients.css);
+@import url(../blocks/info/__plot-header/info__plot-header.css);
+@import url(../blocks/info/__plot/info__plot.css);

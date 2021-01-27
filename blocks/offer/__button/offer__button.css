@@ -1,0 +1,17 @@
+.offer__button {
+  font-family: Stolzl;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 158.2%;
+  text-align: center;
+  color: #ffffff;
+  width: 335px;
+  height: 56px;
+  border: none;
+  border-radius: 12px;
+  background: #f86161;
+  padding: 15px 0 10px;
+  box-sizing: border-box;
+  margin-left: 23px;
+}
