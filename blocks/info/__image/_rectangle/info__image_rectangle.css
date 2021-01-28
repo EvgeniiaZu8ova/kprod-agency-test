@@ -1,9 +1,8 @@
-.info__rectangle {
+.info__image_rectangle {
   background-color: #f86161;
   border-radius: 59px;
   width: 445px;
   height: 598px;
-  position: absolute;
   top: 82px;
   right: 16px;
   z-index: 0;

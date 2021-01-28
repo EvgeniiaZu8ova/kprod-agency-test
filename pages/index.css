@@ -3,6 +3,9 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
+@import url(../blocks/page/__image/page__image.css);
+@import url(../blocks/page/__image/_left/page__image_left.css);
+@import url(../blocks/page/__image/_right/page__image_right.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -17,6 +20,8 @@
 @import url(../blocks/overview/overview.css);
 
 @import url(../blocks/offer/offer.css);
+@import url(../blocks/offer/__image/offer__image.css);
+@import url(../blocks/offer/__image/_small/offer__image_small.css);
 @import url(../blocks/offer/__title/offer__title.css);
 @import url(../blocks/offer/__phone/offer__phone.css);
 @import url(../blocks/offer/__paragraph/offer__paragraph.css);
@@ -24,8 +29,13 @@
 @import url(../blocks/offer/__button/offer__button.css);
 
 @import url(../blocks/info/info.css);
-@import url(../blocks/info/__rectangle/info__rectangle.css);
 @import url(../blocks/info/__image/info__image.css);
+@import url(../blocks/info/__image/_bubble/info__image_bubble.css);
+@import url(../blocks/info/__image/_rectangle/info__image_rectangle.css);
+@import url(../blocks/info/__image/_triangle/info__image_triangle.css);
+@import url(../blocks/info/__image/_dot-square/info__image_dot-square.css);
+@import url(../blocks/info/__image/_small-ellipse/info__image_small-ellipse.css);
+@import url(../blocks/info/__image/_plus/info__image_plus.css);
 @import url(../blocks/info/__benefit/info__benefit.css);
 @import url(../blocks/info/__benefit/_clients/info__benefit_clients.css);
 @import url(../blocks/info/__benefit/_profit/info__benefit_profit.css);

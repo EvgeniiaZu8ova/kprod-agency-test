@@ -1,0 +1,5 @@
+.page__image_right {
+  right: -100px;
+  top: -300px;
+  transform: rotate(190deg);
+}

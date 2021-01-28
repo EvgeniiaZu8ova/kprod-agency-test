@@ -1,0 +1,9 @@
+.offer__image {
+  position: absolute;
+  background-image: url(../../../images/plus.svg);
+  background-size: cover;
+  width: 14px;
+  height: 14px;
+  top: -141px;
+  left: -184px;
+}

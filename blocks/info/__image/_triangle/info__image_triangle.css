@@ -1,0 +1,9 @@
+.info__image_triangle {
+  width: 150px;
+  height: 150px;
+  top: 469px;
+  right: 316.23px;
+  z-index: 2;
+  background-image: url(../../../../images/yellow-rectangle.svg);
+  background-size: cover;
+}

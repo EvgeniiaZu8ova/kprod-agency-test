@@ -1,0 +1,9 @@
+.info__image_plus {
+  background-image: url(../../../../images/plus.svg);
+  background-size: cover;
+  width: 8px;
+  height: 8px;
+  z-index: -1;
+  left: -29px;
+  top: 297px;
+}

@@ -1,0 +1,9 @@
+.info__image_dot-square {
+  width: 109.53px;
+  height: 107.88px;
+  top: 52px;
+  right: -34.53px;
+  z-index: -1;
+  background-image: url(../../../../images/dot-square.svg);
+  background-size: cover;
+}

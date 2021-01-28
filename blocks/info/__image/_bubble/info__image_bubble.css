@@ -1,0 +1,11 @@
+.info__image_bubble {
+  background-image: url(../../../../images/bubble.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 464px;
+  height: 464px;
+  z-index: -1;
+  top: 80px;
+  left: -300px;
+  transform: rotate(180deg);
+}

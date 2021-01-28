@@ -1,0 +1,9 @@
+.info__image_small-ellipse {
+  background-image: url(../../../../images/small-ellipse.svg);
+  background-size: cover;
+  width: 19px;
+  height: 19px;
+  z-index: -1;
+  left: -52px;
+  top: 122px;
+}
