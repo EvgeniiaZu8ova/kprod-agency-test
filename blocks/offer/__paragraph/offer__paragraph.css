@@ -8,3 +8,25 @@
   width: 540px;
   margin: 23px 0 48px;
 }
+
+/* @media all and (min-width: 768px) {
+  .offer__paragraph {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .offer__paragraph {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .offer__paragraph {
+  }
+} */
+
+@media all and (max-width: 767px) {
+  .offer__paragraph {
+    width: 100%;
+    font-size: 20px;
+  }
+}

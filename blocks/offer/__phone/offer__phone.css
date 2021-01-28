@@ -14,3 +14,24 @@
   font-size: 18px;
   color: #bcbcbc;
 }
+
+/* @media all and (min-width: 768px) {
+  .offer__phone {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .offer__phone {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .offer__phone {
+  }
+} */
+
+@media all and (max-width: 767px) {
+  .offer__phone {
+    width: 100%;
+  }
+}

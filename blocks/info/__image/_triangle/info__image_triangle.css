@@ -1,9 +1,33 @@
 .info__image_triangle {
-  width: 150px;
-  height: 150px;
-  top: 469px;
-  right: 316.23px;
+  /* width: 150px;
+  height: 150px; */
+  width: 28.46%;
+  height: 22.06%;
+  /* top: 469px;
+  right: 316.23px; */
+  top: 68.97%;
+  right: 60%;
   z-index: 2;
   background-image: url(../../../../images/yellow-rectangle.svg);
   background-size: cover;
+}
+
+@media all and (min-width: 768px) {
+  .info__image_triangle {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .info__image_triangle {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .info__image_triangle {
+  }
+}
+
+@media all and (max-width: 767px) {
+  .info__image_triangle {
+  }
 }

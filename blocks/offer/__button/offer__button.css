@@ -15,3 +15,25 @@
   box-sizing: border-box;
   margin-left: 23px;
 }
+
+/* @media all and (min-width: 768px) {
+  .offer__button {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .offer__button {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .offer__button {
+  }
+} */
+
+@media all and (max-width: 767px) {
+  .offer__button {
+    width: 100%;
+    margin-left: 0;
+  }
+}

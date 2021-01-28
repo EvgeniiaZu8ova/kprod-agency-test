@@ -5,3 +5,25 @@
   align-items: flex-start;
   position: relative;
 }
+
+/* @media all and (min-width: 768px) {
+  .offer {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .offer {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .offer {
+  }
+} */
+
+@media all and (max-width: 767px) {
+  .offer {
+    width: 100%;
+    align-items: center;
+  }
+}

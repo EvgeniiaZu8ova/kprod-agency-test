@@ -2,4 +2,35 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+@media all and (min-width: 768px) {
+  .overview {
+    flex-direction: column;
+    width: calc(768px - 30px);
+    padding-top: 120px;
+  }
+}
+
+@media all and (min-width: 991px) {
+  .overview {
+    width: calc(991px - 30px);
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .overview {
+    width: calc(1200px - 30px);
+    flex-direction: row;
+    padding-top: 54px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .overview {
+    flex-direction: column;
+    width: 100%;
+  }
 }

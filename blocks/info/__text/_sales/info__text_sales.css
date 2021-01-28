@@ -1,3 +1,25 @@
 .info__text_sales {
   margin: 0 0 0 14px;
+  width: 70%;
+}
+
+@media all and (min-width: 768px) {
+  .info__text_sales {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .info__text_sales {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .info__text_sales {
+  }
+}
+
+@media all and (max-width: 767px) {
+  .info__text_sales {
+    margin-left: 6px;
+  }
 }

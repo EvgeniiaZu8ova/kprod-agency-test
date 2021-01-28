@@ -3,9 +3,30 @@
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
-  line-height: 16px;
+  line-height: 0.94;
   color: #ffffff;
   margin: 0;
-  width: calc(146px - 23px - 18px);
+  /* width: calc(146px - 23px - 18px); */
   text-align: right;
+  margin-left: 15px;
+}
+
+/* @media all and (min-width: 768px) {
+  .header__messanger {
+}
+
+@media all and (min-width: 991px) {
+  .header__messanger {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .header__messanger {
+  }
+} */
+
+@media all and (max-width: 767px) {
+  .header__messanger {
+    font-size: 27px;
+  }
 }

@@ -3,3 +3,25 @@
   justify-content: center;
   align-items: center;
 }
+
+@media all and (min-width: 768px) {
+  .offer__forms {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .offer__forms {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .offer__forms {
+  }
+}
+
+@media all and (max-width: 767px) {
+  .offer__forms {
+    flex-direction: column;
+    width: 100%;
+  }
+}

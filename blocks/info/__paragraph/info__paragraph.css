@@ -6,5 +6,25 @@
   line-height: 124.2%;
   color: #ffffff;
   margin: 0;
-  width: 160px;
+}
+
+@media all and (min-width: 768px) {
+  .info__paragraph {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .info__paragraph {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .info__paragraph {
+  }
+}
+
+@media all and (max-width: 767px) {
+  .info__paragraph {
+    font-size: 10px;
+  }
 }

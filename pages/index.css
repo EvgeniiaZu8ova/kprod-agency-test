@@ -26,6 +26,7 @@
 @import url(../blocks/offer/__phone/offer__phone.css);
 @import url(../blocks/offer/__paragraph/offer__paragraph.css);
 @import url(../blocks/offer/__forms/offer__forms.css);
+@import url(../blocks/offer/__form/offer__form.css);
 @import url(../blocks/offer/__button/offer__button.css);
 
 @import url(../blocks/info/info.css);

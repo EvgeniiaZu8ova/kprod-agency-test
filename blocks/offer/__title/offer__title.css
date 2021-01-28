@@ -8,3 +8,25 @@
   width: 600px;
   margin: 0;
 }
+
+/* @media all and (min-width: 768px) {
+  .offer__title {
+  }
+}
+
+@media all and (min-width: 991px) {
+  .offer__title {
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .offer__title {
+  }
+} */
+
+@media all and (max-width: 767px) {
+  .offer__title {
+    width: 100%;
+    font-size: 38px;
+  }
+}

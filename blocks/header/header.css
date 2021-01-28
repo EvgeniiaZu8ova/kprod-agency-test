@@ -4,4 +4,37 @@
   align-items: center;
   padding: 0 0 54px;
   box-sizing: border-box;
+  margin: 0 auto;
+}
+
+@media all and (min-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    width: calc(768px - 30px);
+    padding: 0;
+  }
+}
+
+@media all and (min-width: 991px) {
+  .header {
+    width: calc(991px - 30px);
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .header {
+    width: calc(1200px - 30px);
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
 }
