@@ -1,0 +1,8 @@
+.info__curve {
+  position: absolute;
+  top: 7px;
+  right: 0;
+  z-index: 2;
+  width: 237px;
+  height: 133.6px;
+}

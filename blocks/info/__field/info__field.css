@@ -1,0 +1,8 @@
+.info__field {
+  height: 164px;
+  width: 270px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+}

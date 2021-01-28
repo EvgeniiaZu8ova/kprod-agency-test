@@ -1,4 +1,5 @@
 .info__benefit_profit {
+  justify-content: flex-start;
   background: #ffffff;
   border-radius: 15px;
   right: -48px;
