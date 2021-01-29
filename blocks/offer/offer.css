@@ -6,7 +6,7 @@
   position: relative;
 }
 
-/* @media all and (min-width: 768px) {
+@media all and (min-width: 768px) {
   .offer {
   }
 }
@@ -19,7 +19,7 @@
 @media all and (min-width: 1200px) {
   .offer {
   }
-} */
+}
 
 @media all and (max-width: 767px) {
   .offer {

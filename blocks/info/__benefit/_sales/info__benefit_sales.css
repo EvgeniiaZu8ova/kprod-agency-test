@@ -24,6 +24,10 @@
 
 @media all and (min-width: 1200px) {
   .info__benefit_sales {
+    right: -10px;
+    top: 290px;
+    width: 47%;
+    padding-right: 20px;
   }
 }
 
