@@ -6,22 +6,14 @@
   height: 48px;
   border-radius: 9px;
   background-color: #4f15f3;
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out 0.2s;
 }
 
-/* @media all and (min-width: 768px) {
-  .header__whatsapp {
-  }
+.header__whatsapp:hover {
+  opacity: 0.6;
+  cursor: pointer;
 }
-
-@media all and (min-width: 991px) {
-  .header__whatsapp {
-  }
-}
-
-@media all and (min-width: 1200px) {
-  .header__whatsapp {
-  }
-} */
 
 @media all and (max-width: 767px) {
   .header__whatsapp {

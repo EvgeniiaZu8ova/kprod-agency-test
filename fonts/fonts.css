@@ -15,22 +15,6 @@
 }
 
 @font-face {
-  font-family: "Gotham Pro";
-  src: url("../fonts/GothamPro-Bold.woff2") format("woff2"),
-    url("../fonts/GothamPro-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Gotham Pro";
-  src: url("../fonts/GothamPro.woff2") format("woff2"),
-    url("../fonts/GothamPro.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
   font-family: "Stolzl";
   src: url("../fonts/Stolzl-Thin.woff2") format("woff2"),
     url("../fonts/Stolzl-Thin.woff") format("woff");
@@ -51,5 +35,21 @@
   src: url("../fonts/Stolzl-Medium.woff2") format("woff2"),
     url("../fonts/Stolzl-Medium.woff") format("woff");
   font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham Pro";
+  src: url("../fonts/GothamPro-Bold.woff2") format("woff2"),
+    url("../fonts/GothamPro-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham Pro";
+  src: url("../fonts/GothamPro.woff2") format("woff2"),
+    url("../fonts/GothamPro.woff") format("woff");
+  font-weight: normal;
   font-style: normal;
 }

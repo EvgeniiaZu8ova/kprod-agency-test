@@ -1,26 +1,13 @@
 .info__benefit_clients {
   top: 44px;
   left: 0;
-  /* width: 159px;
-  height: 186px; */
   width: 30.17%;
-  /* height: 27.35%; */
   padding: 26px 35px 22px;
 }
 
 @media all and (min-width: 768px) {
   .info__benefit_clients {
     height: 27.35%;
-  }
-}
-
-@media all and (min-width: 991px) {
-  .info__benefit_clients {
-  }
-}
-
-@media all and (min-width: 1200px) {
-  .info__benefit_clients {
   }
 }
 

@@ -14,11 +14,6 @@
   }
 }
 
-@media all and (min-width: 991px) {
-  .header__contacts {
-  }
-}
-
 @media all and (min-width: 1200px) {
   .header__contacts {
     margin: 0;

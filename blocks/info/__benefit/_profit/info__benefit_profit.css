@@ -6,27 +6,8 @@
   bottom: -100px;
   width: 326px;
   height: 301px;
-  /* width: 61.86%;
-  height: 44.26%; */
   padding: 22px 34px 25px 24px;
   box-sizing: border-box;
-}
-
-@media all and (min-width: 768px) {
-  .info__benefit_profit {
-  }
-}
-
-@media all and (min-width: 991px) {
-  .info__benefit_profit {
-  }
-}
-
-@media all and (min-width: 1200px) {
-  .info__benefit_profit {
-    right: -2%;
-    bottom: -110px;
-  }
 }
 
 @media all and (max-width: 767px) {

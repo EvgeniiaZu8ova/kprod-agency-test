@@ -7,12 +7,3 @@
   z-index: 1;
   border: none;
 }
-
-@media all and (min-width: 1200px) {
-  .info__image {
-    /* width: 105%;
-    height: 105%;
-    right: -25px;
-    top: -1.5px; */
-  }
-}

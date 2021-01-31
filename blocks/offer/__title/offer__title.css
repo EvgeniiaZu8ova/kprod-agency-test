@@ -5,24 +5,9 @@
   font-size: 48px;
   line-height: 150%;
   color: #ffffff;
-  width: 600px;
+  width: 500px;
   margin: 0;
 }
-
-/* @media all and (min-width: 768px) {
-  .offer__title {
-  }
-}
-
-@media all and (min-width: 991px) {
-  .offer__title {
-  }
-}
-
-@media all and (min-width: 1200px) {
-  .offer__title {
-  }
-} */
 
 @media all and (max-width: 767px) {
   .offer__title {

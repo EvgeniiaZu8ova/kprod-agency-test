@@ -6,7 +6,8 @@
   line-height: 158.2%;
   text-align: center;
   color: #ffffff;
-  width: 335px;
+  max-width: 335px;
+  min-width: 255px;
   height: 56px;
   border: none;
   border-radius: 12px;
@@ -14,22 +15,14 @@
   padding: 15px 0 10px;
   box-sizing: border-box;
   margin-left: 23px;
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out 0.2s;
 }
 
-/* @media all and (min-width: 768px) {
-  .offer__button {
-  }
+.offer__button:hover {
+  opacity: 0.6;
+  cursor: pointer;
 }
-
-@media all and (min-width: 991px) {
-  .offer__button {
-  }
-}
-
-@media all and (min-width: 1200px) {
-  .offer__button {
-  }
-} */
 
 @media all and (max-width: 767px) {
   .offer__button {

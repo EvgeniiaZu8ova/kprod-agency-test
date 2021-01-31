@@ -6,21 +6,17 @@
   line-height: 1.1875;
   color: #ffffff;
   text-decoration: none;
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out 0.2s;
 }
 
-@media all and (min-width: 768px) {
-  .header__row-link {
-  }
+.header__row-link:hover {
+  opacity: 0.6;
+  cursor: pointer;
 }
 
-@media all and (min-width: 991px) {
-  .header__row-link {
-  }
-}
-
-@media all and (min-width: 1200px) {
-  .header__row-link {
-  }
+.header__row-link:focus {
+  outline: none;
 }
 
 @media all and (max-width: 767px) {

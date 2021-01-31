@@ -1,6 +1,5 @@
 .header__row-links {
   display: flex;
-  /* width: 586px; */
   justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
@@ -13,11 +12,6 @@
   }
 }
 
-@media all and (min-width: 991px) {
-  .header__row-links {
-  }
-}
-
 @media all and (min-width: 1200px) {
   .header__row-links {
     width: 50%;
@@ -26,10 +20,8 @@
 
 @media all and (max-width: 767px) {
   .header__row-links {
-    /* flex-direction: column; */
     width: calc(100vw - 40px);
     flex-wrap: wrap;
-    /* justify-content: flex-start; */
     justify-content: center;
     align-items: flex-start;
   }

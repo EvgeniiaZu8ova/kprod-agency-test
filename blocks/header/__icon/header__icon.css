@@ -3,21 +3,6 @@
   height: 23px;
 }
 
-@media all and (min-width: 768px) {
-  .header__icon {
-  }
-}
-
-@media all and (min-width: 991px) {
-  .header__icon {
-  }
-}
-
-@media all and (min-width: 1200px) {
-  .header__icon {
-  }
-}
-
 @media all and (max-width: 767px) {
   .header__icon {
     width: 32px;

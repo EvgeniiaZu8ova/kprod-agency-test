@@ -5,8 +5,6 @@
   top: 300px;
   right: -153px;
   padding: 16px 40px 20px 20px;
-  /* width: 288px; */
-  /* height: 99px; */
   width: 54.65%;
 }
 
@@ -17,16 +15,11 @@
   }
 }
 
-@media all and (min-width: 991px) {
-  .info__benefit_sales {
-  }
-}
-
 @media all and (min-width: 1200px) {
   .info__benefit_sales {
-    right: -10px;
+    right: -48px;
     top: 290px;
-    width: 47%;
+    width: 55%;
     padding-right: 20px;
   }
 }

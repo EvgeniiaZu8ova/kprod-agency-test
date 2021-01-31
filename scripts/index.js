@@ -14,9 +14,11 @@ function setupCanvas(canvas) {
   return ctx;
 }
 
+// Найти элемент canvas на странице и оптимизировать его отображение
 const profitCanvas = document.getElementById('profitPlot');
 const profitContext = setupCanvas(profitCanvas);
 
+// Отстроить сетку
 for (let x = 65; x < 270; x += 34) {
   profitContext.moveTo(x, 0);
   profitContext.lineTo(x, 164);
@@ -27,13 +29,14 @@ for (let y = 41; y < 164; y += 41) {
   profitContext.lineTo(269, y);
 };
 
+// Задать стили
 profitContext.lineWidth = '1';
 profitContext.strokeStyle = '#E6EBF0';
 profitContext.stroke();
-
 profitContext.fillStyle = '#878E9C';
 profitContext.font = '9px Gotham Pro';
 
+// Подписать оси
 profitContext.fillText('100', 0, 123);
 profitContext.fillText('200', 0, 82);
 profitContext.fillText('300', 0, 41);
