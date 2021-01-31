@@ -6,8 +6,6 @@
   line-height: 158.2%;
   text-align: center;
   color: #ffffff;
-  max-width: 335px;
-  min-width: 255px;
   height: 56px;
   border: none;
   border-radius: 12px;
@@ -22,6 +20,13 @@
 .offer__button:hover {
   opacity: 0.6;
   cursor: pointer;
+}
+
+@media all and (min-width: 768px) {
+  .offer__button {
+    max-width: 335px;
+    min-width: 255px;
+  }
 }
 
 @media all and (max-width: 767px) {
